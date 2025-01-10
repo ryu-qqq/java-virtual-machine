@@ -8,4 +8,5 @@
 
 ## 목차
 
-1. [자동 메모리 관리](com.ryuqq/chapter2/README.md)
+1. [자바 메모리 영역과 메모리 오버플로](src/main/java/com/ryuqq/chapter2/README.md)
+2. [가비지 컬렉터와 메모리 할당 전략](src/main/java/com/ryuqq/chapter3/README.md)
