@@ -1,13 +1,22 @@
 plugins {
-    id 'java'
+    id 'java-library'
 }
 
 group = 'com.ryuqq'
 version = '1.0-SNAPSHOT'
 
-repositories {
-    mavenCentral()
+
+
+allprojects {
+
+    sourceCompatibility = JavaVersion.VERSION_21
+
+    repositories {
+        mavenCentral()
+    }
+
 }
+
 
 dependencies {
     testImplementation platform('org.junit:junit-bom:5.10.0')
