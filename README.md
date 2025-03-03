@@ -19,4 +19,13 @@
 4. [자바 JVM 클래스 로딩 및 클래스 로더]
    1. [JVM CLASS LOADING 과정](src/main/java/com/ryuqq/chapter7/JVM_CLASS_LOADER.md)
    2. [JVM CLASS LOADER](src/main/java/com/ryuqq/chapter7/JVM_CLASS_LOADING.md)
+5. [바이트 코드 실행 엔진]
+   1. [JVM_STATIC_DISPATCH](src/main/java/com/ryuqq/chapter8/JVM_STATIC_DISPATCH.md)
+   2. [JVM_DYNAMIC_DISPATCH](src/main/java/com/ryuqq/chapter8/JVM_DYNAMIC_DISPATCH.md)
+   3. [JVM_DYNAMIC_TYPING](src/main/java/com/ryuqq/chapter8/JVM_DYNAMIC_TYPING.md)
+   4. [JVM_METHOD_INVOCATION](src/main/java/com/ryuqq/chapter8/JVM_METHOD_INVOCATION.md)
+   5. [JVM_REFLECTION_CACHING](src/main/java/com/ryuqq/chapter8/JVM_REFLECTION_CACHING.md)
+   6. [JVM_RUNTIME_STACK](src/main/java/com/ryuqq/chapter8/JVM_RUNTIME_STACK.md)
+6. [컴파일과 최적화]
+   1. [JVM_COMPILER_OPTIMIZATION](src/main/java/com/ryuqq/chapter11/JVM_COMPILER_OPTIMIZATION.md)
 5. [자바 메모리 모델과 스레드](src/main/java/com/ryuqq/chapter13/README.md)
