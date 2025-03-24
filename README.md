@@ -11,7 +11,7 @@
 
 ## 목차
 
-1. [자바 메모리 영역과 메모리 오버플로](src/main/java/com/ryuqq/chapter2/README.md)
+1. [자바 메모리 영역과 메모리 오버플로](src/main/java/com/ryuqq/chapter2_java_memory_area/README.md)
 2. 가비지 컬렉터와 메모리 할당 전략
    1. [GC 참조 분석](src/main/java/com/ryuqq/chapter3/JVM_GC_REFERENCE_ANALYSIS.md)
    2. [GC 최적화](src/main/java/com/ryuqq/chapter3/JVM_GC_OPTIMIZATION.md)
