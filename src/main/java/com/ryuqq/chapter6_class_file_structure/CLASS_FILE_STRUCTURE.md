@@ -127,6 +127,7 @@ javap -v MyClass.class
 
 공부할 때 `javap`, `ASM`, `ByteBuddy` 같은 도구도 병행하면 클래스 파일에 대한 이해가 훨씬 깊어진다.
 
+/test/chapter6/ClassLoadingTest 참고
 
 
 
